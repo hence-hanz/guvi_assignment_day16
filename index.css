@@ -1,0 +1,22 @@
+#display{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: xx-large;
+  font-family: cursive;    
+  margin: 100px auto;
+  color: #06038D;
+}
+
+#Countdown{
+  background-image: linear-gradient(
+    to right top,
+    #FF671F,
+    #fff,
+    #046A38
+  );
+  margin: 200px 100px;
+  border: 5px solid #fff;
+  border-radius: 20px;
+  
+}
